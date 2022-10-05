@@ -57,5 +57,6 @@ gantt
 ***
 
 # PERT圖
-![PERT/CPM](PERT.jpg "PERT")
+![path](path.jpg "path")
 ***
+```
