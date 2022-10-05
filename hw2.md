@@ -51,11 +51,12 @@ gantt
     section 使用者測試
     25天:a11,after a9, 25d
 ```
+
 # CPM圖
-![path](CPM.png "CPM")
+![path](CPM.png)
 ***
 
 # PERT圖
-![path](PERT.png "PERT")
+![path](PERT.png)
 ***
 ```
