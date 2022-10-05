@@ -55,7 +55,7 @@ gantt
 # CPM圖
 ![path](CPM.png "CPM")
 ***
-
+```
 # PERT圖
 ![path](PERT.png "PERT")
 ***
