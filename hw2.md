@@ -53,10 +53,10 @@ gantt
 ```
 ***
 # CPM圖
-![path](path.jpg "path")
+![path](CPM.jpg "CPM")
 ***
 
 # PERT圖
-![path](path.jpg "path")
+![path](PERT.jpg "PERT")
 ***
 ```
